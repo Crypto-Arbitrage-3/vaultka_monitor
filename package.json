@@ -1,0 +1,16 @@
+{
+  "name": "vaultka_monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "node-global-proxy": "^1.0.1",
+    "puppeteer": "^23.7.1"
+  }
+}
